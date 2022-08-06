@@ -5,7 +5,6 @@ ___
 ## Libraries used in the project
 + ### "MySQL" is used to store data in the project.
 + ### "JAVA"
-+ ### "JAVASCRIPT"
 + ### "HTML & CSS"
 ___
 ## Description of the project
